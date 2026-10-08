@@ -1,0 +1,7 @@
+{
+    "buildNumber": "37792504921",
+    "url": "https://static.pulsesync.dev/app/dev/versions/37792504921/index.html",
+    "localizationUrl": "https://static.pulsesync.dev/app/dev/versions/37792504921/locales",
+    "requiresDesktopApi": "^1.10.0",
+    "artifactSha256": "9be8e8d7e3d3ac97ee598609bcced59ce7f6a29cb84d6da6140751105f40b4d7"
+}
